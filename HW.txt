@@ -1,0 +1,149 @@
+<span style="font-family:Microsoft JhengHei;">
+<p><strong>&nbsp;</strong></p>
+<p style="text-align: left;"><strong>個人履歷表</strong></p>
+<table style="border:3px #FFD382 dashed;" cellpadding="10" border='1'>
+
+<tbody>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 88px;">
+<p>姓&nbsp;&nbsp;&nbsp; 名</p>
+</td>
+<td style="height: 36px; width: 797.2px;" colspan="5">
+<p>林心如</p>
+</td>
+</tr>
+<tr style="height: 52px;">
+<td style="height: 52px; width: 88px;">
+<p>出生日期</p>
+</td>
+<td style="height: 52px; width: 218.6px;">
+<p>88.12.24</p>
+</td>
+<td style="height: 52px; width: 53.4px;">
+<p>性 別</p>
+</td>
+<td style="height: 52px; width: 525.2px;" colspan="3">
+<p>女</p>
+</td>
+</tr>
+<tr style="height: 43.8px;">
+<td style="height: 43.8px; width: 88px;">
+<p>聯絡電話&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td style="height: 43.8px; width: 797.2px;" colspan="5">
+<p>0919128711</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 43px; width: 88px;">
+<p>電子信箱</p>
+</td>
+<td style="height: 43px; width: 797.2px;" colspan="5">
+<p>yue12240@gmail.com</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 45px; width: 88px;" rowspan="2">
+<p>&nbsp;學&nbsp;&nbsp;&nbsp;&nbsp; 歷</p>
+</td>
+<td style="height: 36px; width: 529.2px;" colspan="4">
+<p>畢業學校</p>
+</td>
+<td style="height: 36px; width: 268px;">
+<p>畢業時間</p>
+</td>
+</tr>
+<tr style="height: 9px;">
+<td style="height: 9px; width: 529.2px;" colspan="4">
+<p>國立台北護理健康大學</p>
+</td>
+<td style="height: 9px; width: 268px;">
+<p>107年9月-111年6月</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 88px;">
+<p>個&nbsp;&nbsp;&nbsp;&nbsp; 性</p>
+</td>
+<td style="height: 36px; width: 797.2px;" colspan="5">
+<p>謹慎負責、領導力、樂於助人、同理心、創意、勤奮</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 88px;">
+<p>興&nbsp;&nbsp;&nbsp;&nbsp; 趣</p>
+</td>
+<td style="height: 36px; width: 797.2px;" colspan="5">
+<p>電影欣賞、球類運動、聽音樂、唱歌</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 72px; width: 88px;" rowspan="3">
+<p>專業證照</p>
+</td>
+<td style="height: 36px; width: 282px;" colspan="3">
+<p>顧客關係管理企劃師乙級</p>
+</td>
+<td style="height: 36px; width: 515.2px;" colspan="2">
+<p>123-586383</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 282px;" colspan="3">
+<p>醫療品質管理師</p>
+</td>
+<td style="height: 36px; width: 515.2px;" colspan="2">
+<p>200-036991</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 282px;" colspan="3">
+<p>醫資管理師</p>
+</td>
+<td style="height: 36px; width: 515.2px;" colspan="2">
+<p>155-306928</p>
+</td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px; width: 88px;">
+<p>志工服務</p>
+</td>
+<td style="height: 115px; width: 797.2px;" colspan="5">
+<p>107年三健軍 舊衣舊鞋募集</p>
+<p>108年三健軍 河堤環境清掃(永和-碧潭)</p>
+<p>108年財團法人癌症希望基金會 協助台北小站之行政庶務</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px; width: 88px;">
+<p>工作經歷</p>
+</td>
+<td style="height: 115px; width: 797.2px;" colspan="5">
+<p>107年6月-107年9月 梨卡-包裝人員</p>
+<p>104年8月-109年6月 新莊典華幸福機構-PT</p>
+<p>109年7月-110年8月 XX醫院-健檢行政人員(工讀)</p>
+<p>111年9月-112年2月 X康醫療用品股份有限公司-實習行政助理</p>
+</td>
+</tr>
+<tr style="height: 115px;">
+<td style="height: 115px; width: 88px;">
+<p>自傳</p>
+</td>
+<td style="height: 115px; width: 797.2px;" colspan="5">
+<p><strong>家庭生活-</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong>我是林心如，出生在一個小康家庭。父母對我採自由開放性管教，他們認為我只要能清楚自己到底想要的是什麼，他們都會採取支持態度，並且和我分享許多他們的人生經歷。責任感很強的我，在家庭方面，會盡力分擔照顧弟弟的責任；在處事方面，答應別人的事都會盡心盡力的去完成。母親也非常重視我的品德教育，認為一個人的態度重於一切。<br /> <br /> <strong>求學過程</strong><strong>-</strong></p>
+<p>大學四年，我致力於各種健康產業相關專業科目的學習，並持有顧客關係管理企劃師乙級、醫療品質管理師、醫資管理師證照。熟悉諸多軟體操作，如:Microsoft Office、HTML、CSS等。</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+  </span>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {background-color: linen}
+      </style>
